@@ -1,6 +1,6 @@
-### NAME : Prasanna M
+### NAME : Jaiwanth M
 
-### REG NO.: 212223040151
+### REG NO.: 212224040125
 # Experiment-2
 Write a program in Python language for Matrix multiplication fails. Introspect the causes for its failure and write down the possible reasons for its failure. 
 ## Aim
